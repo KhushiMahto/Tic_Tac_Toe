@@ -5,5 +5,6 @@ Tic Tac Toe is a simple two-player game built using HTML, CSS, and JavaScript. P
 
 <h3>User Interface</h3>
 
-![image](https://github.com/user-attachments/assets/ec4fa0ca-ae2d-4701-a81d-4fa7ce49a2e1)
+![Screenshot (430)](https://github.com/user-attachments/assets/b38f0337-64a3-46dd-94e9-57b04a90eacf)
+
 
